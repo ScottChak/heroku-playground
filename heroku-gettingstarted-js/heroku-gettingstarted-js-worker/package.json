@@ -1,0 +1,11 @@
+{
+  "name": "heroku-gettingstarted-js-worker",
+  "version": "1.0.0",
+  "description": "Worker app for Heroku Getting Started guide",
+  "author": "Ewan \"ScottChak\" BURNS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npm start"
+  }
+}

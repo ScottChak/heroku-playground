@@ -1,0 +1,2 @@
+web: cd heroku-gettingstarted-js-web && npm install --production && npm start
+worker: cd heroku-gettingstarted-js-worker && npm install --production && npm start
